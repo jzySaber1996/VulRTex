@@ -1,0 +1,117 @@
+Variants,Dataset&Experiment,Result (F1)
+Only MM,GHArchive,0.692
+Only MM,GHArchive,0.697
+Only MM,GHArchive,0.685
+Only MM,GHArchive,0.702
+Only MM,GHArchive,0.693
+Only MM&VA,GHArchive,0.687
+Only MM&VA,GHArchive,0.688
+Only MM&VA,GHArchive,0.68
+Only MM&VA,GHArchive,0.672
+Only MM&VA,GHArchive,0.683
+ReAct,GHArchive,0.781
+ReAct,GHArchive,0.774
+ReAct,GHArchive,0.78
+ReAct,GHArchive,0.763
+ReAct,GHArchive,0.781
+LangChain,GHArchive,0.839
+LangChain,GHArchive,0.802
+LangChain,GHArchive,0.817
+LangChain,GHArchive,0.82
+LangChain,GHArchive,0.823
+SimSampling,GHArchive,0.763
+Ours,GHArchive,0.889
+Ours,GHArchive,0.892
+Ours,GHArchive,0.887
+Ours,GHArchive,0.874
+Ours,GHArchive,0.89
+Only MM,D2A,0.644
+Only MM,D2A,0.627
+Only MM,D2A,0.635
+Only MM,D2A,0.636
+Only MM,D2A,0.64
+Only MM&VA,D2A,0.635
+Only MM&VA,D2A,0.622
+Only MM&VA,D2A,0.617
+Only MM&VA,D2A,0.62
+Only MM&VA,D2A,0.63
+ReAct,D2A,0.724
+ReAct,D2A,0.713
+ReAct,D2A,0.725
+ReAct,D2A,0.727
+ReAct,D2A,0.718
+LangChain,D2A,0.748
+LangChain,D2A,0.753
+LangChain,D2A,0.746
+LangChain,D2A,0.747
+LangChain,D2A,0.75
+SimSampling,D2A,0.739
+SimSampling,D2A,0.73
+SimSampling,D2A,0.742
+SimSampling,D2A,0.734
+SimSampling,D2A,0.741
+Ours,D2A,0.806
+Ours,D2A,0.803
+Ours,D2A,0.81
+Ours,D2A,0.807
+Ours,D2A,0.81
+Only MM,D2A$\rightarrow$GHArchive,0.692
+Only MM,D2A$\rightarrow$GHArchive,0.7
+Only MM,D2A$\rightarrow$GHArchive,0.689
+Only MM,D2A$\rightarrow$GHArchive,0.693
+Only MM,D2A$\rightarrow$GHArchive,0.688
+Only MM&VA,D2A$\rightarrow$GHArchive,0.665
+Only MM&VA,D2A$\rightarrow$GHArchive,0.642
+Only MM&VA,D2A$\rightarrow$GHArchive,0.672
+Only MM&VA,D2A$\rightarrow$GHArchive,0.663
+Only MM&VA,D2A$\rightarrow$GHArchive,0.658
+ReAct,D2A$\rightarrow$GHArchive,0.673
+ReAct,D2A$\rightarrow$GHArchive,0.674
+ReAct,D2A$\rightarrow$GHArchive,0.679
+ReAct,D2A$\rightarrow$GHArchive,0.665
+ReAct,D2A$\rightarrow$GHArchive,0.67
+LangChain,D2A$\rightarrow$GHArchive,0.695
+LangChain,D2A$\rightarrow$GHArchive,0.692
+LangChain,D2A$\rightarrow$GHArchive,0.696
+LangChain,D2A$\rightarrow$GHArchive,0.687
+LangChain,D2A$\rightarrow$GHArchive,0.694
+SimSampling,D2A$\rightarrow$GHArchive,0.603
+SimSampling,D2A$\rightarrow$GHArchive,0.598
+SimSampling,D2A$\rightarrow$GHArchive,0.585
+SimSampling,D2A$\rightarrow$GHArchive,0.614
+SimSampling,D2A$\rightarrow$GHArchive,0.605
+Ours,D2A$\rightarrow$GHArchive,0.778
+Ours,D2A$\rightarrow$GHArchive,0.772
+Ours,D2A$\rightarrow$GHArchive,0.763
+Ours,D2A$\rightarrow$GHArchive,0.783
+Ours,D2A$\rightarrow$GHArchive,0.773
+Only MM,GHArchive$\rightarrow$D2A,0.674
+Only MM,GHArchive$\rightarrow$D2A,0.668
+Only MM,GHArchive$\rightarrow$D2A,0.678
+Only MM,GHArchive$\rightarrow$D2A,0.682
+Only MM,GHArchive$\rightarrow$D2A,0.67
+Only MM&VA,GHArchive$\rightarrow$D2A,0.61
+Only MM&VA,GHArchive$\rightarrow$D2A,0.605
+Only MM&VA,GHArchive$\rightarrow$D2A,0.612
+Only MM&VA,GHArchive$\rightarrow$D2A,0.603
+Only MM&VA,GHArchive$\rightarrow$D2A,0.62
+ReAct,GHArchive$\rightarrow$D2A,0.662
+ReAct,GHArchive$\rightarrow$D2A,0.664
+ReAct,GHArchive$\rightarrow$D2A,0.631
+ReAct,GHArchive$\rightarrow$D2A,0.665
+ReAct,GHArchive$\rightarrow$D2A,0.682
+LangChain,GHArchive$\rightarrow$D2A,0.687
+LangChain,GHArchive$\rightarrow$D2A,0.693
+LangChain,GHArchive$\rightarrow$D2A,0.705
+LangChain,GHArchive$\rightarrow$D2A,0.689
+LangChain,GHArchive$\rightarrow$D2A,0.695
+SimSampling,GHArchive$\rightarrow$D2A,0.617
+SimSampling,GHArchive$\rightarrow$D2A,0.621
+SimSampling,GHArchive$\rightarrow$D2A,0.617
+SimSampling,GHArchive$\rightarrow$D2A,0.608
+SimSampling,GHArchive$\rightarrow$D2A,0.619
+Ours,GHArchive$\rightarrow$D2A,0.768
+Ours,GHArchive$\rightarrow$D2A,0.772
+Ours,GHArchive$\rightarrow$D2A,0.774
+Ours,GHArchive$\rightarrow$D2A,0.765
+Ours,GHArchive$\rightarrow$D2A,0.768
