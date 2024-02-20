@@ -1,4 +1,4 @@
-api_key = "" # Your ChatGPT API Key
+api_key = "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" # Your ChatGPT API Key
 path = "data/"
 prompt = """
 You run in a loop of Thought, Action, PAUSE, Observation.
@@ -39,7 +39,11 @@ PAUSE
 
 You will be called again with this:
 
-Observation: No, the issue report cannot match the CVE-XXX-XXX
+Observation: No, the issue report does not contain the vulnerability.
 You then output:
 Answer: The issue report need the {action name} to support the analysis.
 """
+
+alpha = 0.3
+root = 2
+max_depth = 5
